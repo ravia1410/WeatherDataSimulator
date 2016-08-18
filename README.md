@@ -12,3 +12,6 @@ sample output:
 Running:  
 python weather_data_simulator.py param_no_of_rows_to_generate  
 ex: python weather_data_simulator.py 10
+
+Note:   
+This is a prototype of weather data generator. Internet is required for deriving elevation.
